@@ -15,3 +15,10 @@ Bitrix certified developer
 
 Freelance
 
+Skills
+------
+Familiar with HTML, CSS, Javascript, PHP
+
+English
+-------
+Can read and type.
