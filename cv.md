@@ -11,13 +11,12 @@ Education
 
 Experience
 ----------
-Bitrix certified developer
 
-Freelance
+Bitrix Full-Stack (PHP, Vue.js)
 
 Skills
 ------
-Familiar with HTML, CSS, Javascript, PHP
+HTML, CSS, JavaScript, PHP, Vue
 
 English
 -------
